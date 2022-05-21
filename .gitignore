@@ -51,3 +51,11 @@ studio/node_modules
 
 # Compiled sanity studio
 studio/dist
+
+
+contract-solana/.anchor
+contract-solana/.DS_Store
+contract-solana/target
+contract-solana/**/*.rs.bk
+contract-solana/node_modules
+contract-solana/test-ledger
